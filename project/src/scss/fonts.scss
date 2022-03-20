@@ -1,0 +1,15 @@
+@font-face {
+  font-family: "Romochka";
+  font-style: normal;
+  font-weight: 400;
+  src: local("Romochka"), local("Romochka-Regular"), url("../fonts/romochka.woff2") format("woff2"), url("../fonts/romochka.woff") format("woff");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Comfortaa";
+  font-style: normal;
+  font-weight: 400;
+  src: local("Comfortaa"), local("Comfortaa-Regular"), url("../fonts/comfortaa.woff2") format("woff2"), url("../fonts/comfortaa.woff") format("woff");
+  font-display: swap;
+}

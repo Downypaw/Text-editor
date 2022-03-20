@@ -1,0 +1,25 @@
+.page-main {
+  height: 100%;
+}
+
+.page-main__container {
+  margin-bottom: 40px;
+  padding-bottom: 50px;
+}
+
+.page-main__title {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.page-main__editor {
+  margin-top: 50px;
+  width: 100%;
+  min-height: 200px;
+  background-color: white;
+  border: 2px solid $basic-color;
+  border-radius: 5px;
+  text-align: left;
+  padding: 20px;
+  box-sizing: border-box;
+}
